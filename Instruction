@@ -1,0 +1,11 @@
+Please replace file in following path:
+
+First Navigate to App > Handlers > Events folder
+  and replace below files.
+    - EventNotiSent.php
+    - GalleryNotiSent.php
+    - PenaltyNotiSent.php
+    
+Second Navigate to App > Http folder
+  and replace below files.
+    - helpers.php
